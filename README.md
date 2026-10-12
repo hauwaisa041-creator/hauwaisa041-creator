@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi👋, I'm hauwa!
+💻 Beginner Web Developer | Future Software Engineer
 <!--
 **hauwaisa041-creator/hauwaisa041-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
